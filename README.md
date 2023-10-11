@@ -1,6 +1,6 @@
 # Code editor for Filament
 
-Fork of https://github.com/sebastiaankloos/filament-codee-ditor
+Fork of https://github.com/sebastiaankloos/filament-codeeditor
 
 This package provides a code editor form field type for Filament. It's based on CodeMirror 6.
 
