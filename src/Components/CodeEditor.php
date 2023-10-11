@@ -11,7 +11,7 @@ class CodeEditor extends Field implements CanBeLengthConstrained
     use \Filament\Forms\Components\Concerns\CanBeReadOnly;
     use \Filament\Forms\Components\Concerns\HasExtraInputAttributes;
     use \Filament\Forms\Components\Concerns\HasPlaceholder;
-    use \Filament\Forms\Components\HasExtraAlpineAttributes;
+    use \Filament\Forms\Components\Concerns\HasExtraAlpineAttributes;
     
     protected string $view = 'filament-code-editor::components.code-editor';
 }
