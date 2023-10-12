@@ -1,5 +1,5 @@
 {
-    "name": "sebastiaankloos/filament-code-editor",
+    "name": "shafer/filament-code-editor",
     "description": "Code editor for Filament",
     "keywords": [
         "SebastiaanKloos",
@@ -35,13 +35,13 @@
     },
     "autoload": {
         "psr-4": {
-            "SebastiaanKloos\\FilamentCodeEditor\\": "src",
-            "SebastiaanKloos\\FilamentCodeEditor\\Database\\Factories\\": "database/factories"
+            "Shafer\\FilamentCodeEditor\\": "src",
+            "Shafer\\FilamentCodeEditor\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "SebastiaanKloos\\FilamentCodeEditor\\Tests\\": "tests"
+            "Shafer\\FilamentCodeEditor\\Tests\\": "tests"
         }
     },
     "scripts": {
