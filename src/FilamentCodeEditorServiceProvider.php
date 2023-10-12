@@ -1,6 +1,6 @@
 <?php
 
-namespace SebastiaanKloos\FilamentCodeEditor;
+namespace Shafer\FilamentCodeEditor;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
