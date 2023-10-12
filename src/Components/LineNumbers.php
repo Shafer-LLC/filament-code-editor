@@ -1,6 +1,6 @@
 <?php
 
-namespace Creagia\FilamentCodeField\Concerns;
+namespace Shafer\FilamentCodeEditor\Concerns;
 
 trait LineNumbers
 {
